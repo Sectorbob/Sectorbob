@@ -35,5 +35,12 @@ I spent 14 years building payments systems that weren't allowed to break, so in 
   (16 repos, ~750 commits) that started as a way to learn Kotlin and grew into a data pipeline,
   microservices, a Firefox extension, a Discord bot, and a Kotlin Multiplatform desktop client,
   across Kotlin, Go, Rust, and TypeScript.
+- **[fantasy-sports-rs](https://github.com/Sectorbob/fantasy-sports-rs)** — *active, tinkered on as time allows.*
+  A Rust SDK that puts Yahoo, Sleeper, and Fleaflicker behind one data model with an on-disk
+  response cache, plus a terminal UI for managing and visualizing fantasy football leagues in one
+  place. It's my way of learning TUI development.
+- **[MPGuino: Del Sol Edition](mpguino-showcase.md)** — a fuel-economy trip computer for my 1995
+  Honda Del Sol. I tapped the ECU's speed and injector signals and modified the open-source
+  MPGuino firmware (C/Arduino) to drive an ST7735 color display. [Code](https://github.com/Sectorbob/mpguino_st7735_mod).
 
 > "It worked on my machine." — my machine, right before I took it apart
