@@ -51,7 +51,7 @@ Every arrow was something I first did by hand and then automated.
 I'm releasing pieces that are self-contained and useful beyond this project:
 
 - **`name-matching-service`** (Go): resolves messy player names from many sources to a single canonical ID. It handles suffixes, nicknames, misspellings, and which team a player was on at a given date. [link](https://github.com/Sectorbob/name-matching-service)
-- **`schedule-service`** (Go): a small service that normalizes league schedules into a single schema. [link](TODO)
+- **`schedule-service`** (Go): a small service that normalizes league schedules into a single schema. [link](https://github.com/Sectorbob/schedule-service)
 
 The rest stays private because it touches third-party data sources and terms I don't want to redistribute.
 
