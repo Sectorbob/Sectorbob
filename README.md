@@ -29,4 +29,11 @@ I spent 14 years building payments systems that weren't allowed to break, so in 
 
 **Stack:** Go · C · Java · Rust (dabbling) · Kubernetes · AWS · QEMU/KVM · LXD
 
+### 🗂️ Portfolio / Showcase
+
+- **[Three Years, Five Stacks: What I Built to Learn](dimes-showcase.md)** — a three-year side project
+  (16 repos, ~750 commits) that started as a way to learn Kotlin and grew into a data pipeline,
+  microservices, a Firefox extension, a Discord bot, and a Kotlin Multiplatform desktop client,
+  across Kotlin, Go, Rust, and TypeScript.
+
 > "It worked on my machine." — my machine, right before I took it apart
